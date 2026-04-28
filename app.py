@@ -252,7 +252,7 @@ class TextPreprocessor:
             "lúc","lại","lấy","mà","mình","mọi","mỗi","một","mới","nay","ngay",
             "nghe","nghĩ","ngoài","ngày","người","nhau","nhà","như","nhưng","những",
             "nào","này","nên","nếu","nói","nơi","nữa","qua","ra","rằng","rồi",
-            "sao","sau","so với","sẽ","số","sự","tại","theo","thì","thế","thôi",
+            "sau","so với","sẽ","số","sự","tại","theo","thì","thế","thôi",
             "thường","thực ra","tin","trong","trên","trước","tuy","tuy nhiên","từ",
             "tự","và","vài","vào","vì","vì vậy","với","vừa","về","vậy","xem",
             "xin","yêu cầu","đang","đâu","đây","đã","đó","được","đến","đều",
