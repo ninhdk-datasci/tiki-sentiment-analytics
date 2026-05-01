@@ -248,7 +248,7 @@ class TextPreprocessor:
             "cho nên","cho đến","chung","chúng ta","chúng tôi","chỉ","chị","các",
             "cách","cái","câu hỏi","còn","có","có thể","cùng","cũng","của","cứ",
             "do","do đó","dù","dù sao","dùng","em","giờ","gì","gần","gồm","hay",
-            "hoặc","hãy","hơn","họ","khi","khoảng","khác","kể","là","làm","lên","sao",
+            "hoặc","hãy","hơn","họ","khi","khoảng","khác","kể","là","làm","lên",
             "lúc","lại","lấy","mà","mình","mọi","mỗi","một","mới","nay","ngay",
             "nghe","nghĩ","ngoài","ngày","người","nhau","nhà","như","nhưng","những",
             "nào","này","nên","nếu","nói","nơi","nữa","qua","ra","rằng","rồi",
