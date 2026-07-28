@@ -1,0 +1,27 @@
+Model,Parameter,Value
+Logistic Regression,C,1.0
+Logistic Regression,solver,lbfgs
+Logistic Regression,analyzer,char_wb
+Logistic Regression,max_df,0.8
+Logistic Regression,max_features,40000
+Logistic Regression,min_df,1
+Logistic Regression,ngram_range,"(1, 3)"
+Logistic Regression,sublinear_tf,True
+LinearSVC,C,1.0
+LinearSVC,loss,hinge
+LinearSVC,analyzer,char_wb
+LinearSVC,max_df,0.8
+LinearSVC,max_features,30000
+LinearSVC,min_df,1
+LinearSVC,ngram_range,"(1, 3)"
+LinearSVC,sublinear_tf,True
+SGDClassifier,alpha,0.001
+SGDClassifier,learning_rate,invscaling
+SGDClassifier,loss,modified_huber
+SGDClassifier,penalty,l2
+SGDClassifier,analyzer,char_wb
+SGDClassifier,max_df,0.8
+SGDClassifier,max_features,5000
+SGDClassifier,min_df,10
+SGDClassifier,ngram_range,"(1, 2)"
+SGDClassifier,sublinear_tf,False

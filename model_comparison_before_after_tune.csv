@@ -1,0 +1,4 @@
+Model,Before Tuning,After Tuning,Improvement,Improvement %
+LinearSVC,0.5956,0.6125,0.017,2.85
+Logistic Regression,0.5839,0.5849,0.001,0.17
+SGDClassifier,0.6131,0.4337,-0.1794,-29.26

@@ -1,0 +1,27 @@
+Model,CV F1 Score,Test F1 Score,Test Precision,Test Recall,Test Accuracy,Best Parameters
+LinearSVC,0.6076,0.6125,0.5943,0.6364,0.8458,"clf__C: 1.0
+clf__loss: hinge
+tfidf__analyzer: char_wb
+tfidf__max_df: 0.8
+tfidf__max_features: 30000
+tfidf__min_df: 1
+tfidf__ngram_range: (1, 3)
+tfidf__sublinear_tf: True"
+Logistic Regression,0.5789,0.5849,0.5643,0.6572,0.777,"clf__C: 1.0
+clf__solver: lbfgs
+tfidf__analyzer: char_wb
+tfidf__max_df: 0.8
+tfidf__max_features: 40000
+tfidf__min_df: 1
+tfidf__ngram_range: (1, 3)
+tfidf__sublinear_tf: True"
+SGDClassifier,0.4162,0.4337,0.564,0.4268,0.8305,"clf__alpha: 0.001
+clf__learning_rate: invscaling
+clf__loss: modified_huber
+clf__penalty: l2
+tfidf__analyzer: char_wb
+tfidf__max_df: 0.8
+tfidf__max_features: 5000
+tfidf__min_df: 10
+tfidf__ngram_range: (1, 2)
+tfidf__sublinear_tf: False"

@@ -1,0 +1,24 @@
+﻿Mô hình,Best F1-macro (CV),Tham số TF-IDF tối ưu,Tham số model tối ưu
+Logistic Regression,0.5789 ± 0.005,"analyzer=char_wb
+max_df=0.8
+max_features=40000
+min_df=1
+ngram_range=(1, 3)
+sublinear_tf=True","C=1.0
+solver=lbfgs"
+LinearSVC,0.6076 ± 0.005,"analyzer=char_wb
+max_df=0.8
+max_features=30000
+min_df=1
+ngram_range=(1, 3)
+sublinear_tf=True","C=1.0
+loss=hinge"
+SGDClassifier,0.4162 ± 0.005,"analyzer=char_wb
+max_df=0.8
+max_features=5000
+min_df=10
+ngram_range=(1, 2)
+sublinear_tf=False","alpha=0.001
+learning_rate=invscaling
+loss=modified_huber
+penalty=l2"
